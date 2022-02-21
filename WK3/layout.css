@@ -1,0 +1,25 @@
+header {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+nav {
+    background-color: yellow;
+    color: black;
+}
+
+main {
+    background-color: green;
+    color: black;
+}
+
+aside {
+    background-color: lightgreen;
+    color: black;
+}
+
+footer {
+    background-color: red;
+    color: white;
+}
